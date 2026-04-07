@@ -1,22 +1,3 @@
-<!-- CYBER DARK ANIMATED PROFILE README by R3Z1N -->
-
-<!-- 🟥 CYBER GLITCH BANNER -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" alt="Cyber Glitch Banner"/>
-</p>
-
-<!-- 🧠 R3Z1N TYPING EFFECT -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
-</h1>
-
----
-
-<!-- ⚡ CYBER BACKGROUND GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJubmozbTNpajBleXU1MzFwd3VucmRvaXA5ejF2MG5jNHNlOHR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" width="100%" alt="Cyber Background"/>
-</p>
-
 ---
 
 ### 🧠 **About Me**
