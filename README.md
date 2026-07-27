@@ -51,10 +51,10 @@
 
 ### 🌐 **Connect With Me**
 <p align="center">
-  <a href="https://t.me/T0mSyex"><img src="https://img.shields.io/badge/Telegram-FF003C?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://x.com/T0mSyex"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://discord.gg/user/tomsyex"><img src="https://img.shields.io/badge/Discord-2E2E2E?style=for-the-badge&logo=discord&logoColor=FF003C"/></a>
-  <a href="https://instagram.com/T0mSyex"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FF003C"/></a>
+  <a href="https://t.me/Zh4ckz"><img src="https://img.shields.io/badge/Telegram-FF003C?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://x.com/Zh4ckz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://discord.gg/user/Zh4ckz"><img src="https://img.shields.io/badge/Discord-2E2E2E?style=for-the-badge&logo=discord&logoColor=FF003C"/></a>
+  <a href="https://instagram.com/Zh4ckz"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=FF003C"/></a>
 </p>
 
 ---
