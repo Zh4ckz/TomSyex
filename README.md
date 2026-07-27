@@ -36,7 +36,7 @@
 
 ### ⚙️ **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=R3Z1N&show_icons=true&theme=tokyonight&icon_color=FF003C&title_color=FF003C&text_color=FFFFFF&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zh4ckz&show_icons=true&theme=tokyonight&icon_color=FF003C&title_color=FF003C&text_color=FFFFFF&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=R3Z1N&theme=highcontrast&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&hide_border=true" />
 </p>
 
@@ -44,7 +44,7 @@
 
 ### 🏆 **Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R3Z1N&theme=onedark&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Zh4ckz&theme=onedark&no-frame=true&column=6" />
 </p>
 
 ---
