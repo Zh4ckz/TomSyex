@@ -1,13 +1,13 @@
-<!-- CYBER DARK ANIMATED PROFILE README by R3Z1N -->
+<!-- CYBER DARK ANIMATED PROFILE README by Zh4ckz -->
 
 <!-- 🟥 CYBER GLITCH BANNER -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZxd3JlcmlvNTg5NjNwam8xNHRuNW9iY3I4YzgxbXo2d3hlZ2IycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XbV2mrHs6ureBPUEuJ/giphy.gif" width="100%" alt="Cyber Glitch Banner"/>
 </p>
 
-<!-- 🧠 R3Z1N TYPING EFFECT -->
+<!-- 🧠 Zh4ckz TYPING EFFECT -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+R3Z1N;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&color=FF003C&center=true&vCenter=true&width=600&lines=👨‍💻+Zh4ckz;CYBER+INTELLIGENCE;SOFTWARE+DEVELOPER;AI+AUTOMATION;SECURITY+RESEARCHER" alt="Typing Animation"/>
 </h1>
 
 ---
@@ -37,7 +37,7 @@
 ### ⚙️ **GitHub Stats**
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zh4ckz&show_icons=true&theme=tokyonight&icon_color=FF003C&title_color=FF003C&text_color=FFFFFF&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=R3Z1N&theme=highcontrast&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Zh4ckz&theme=highcontrast&ring=FF003C&fire=FF003C&currStreakLabel=FFFFFF&hide_border=true" />
 </p>
 
 ---
@@ -61,9 +61,9 @@
 
 ### 🧩 **Visitors & Followers**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R3Z1N&color=FF003C&style=flat-square&label=VISITORS"/>
-  <img src="https://img.shields.io/github/followers/R3Z1N?label=Followers&style=flat-square&color=FF003C"/>
-  <img src="https://img.shields.io/github/stars/R3Z1N?label=Stars&style=flat-square&color=FFFFFF"/>
+  <img src="https://komarev.com/ghpvc/?username=Zh4ckz&color=FF003C&style=flat-square&label=VISITORS"/>
+  <img src="https://img.shields.io/github/followers/Zh4ckz?label=Followers&style=flat-square&color=FF003C"/>
+  <img src="https://img.shields.io/github/stars/Zh4ckz?label=Stars&style=flat-square&color=FFFFFF"/>
 </p>
 
 ---
